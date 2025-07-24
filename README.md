@@ -2,9 +2,9 @@
 <h3 align="center">A Computer Engineering student at Birzeit University, passionate about coding, problem-solving, and continuous learning.</h3>
 
 - 📫 How to Reach Me:
-  - Email: mohammad.nail.zaben@gmail.com
-  - LinkedIn: [Mohammad Zaben](https://www.linkedin.com/in/mohammad-zaben)
-  - Facebook: [Mohammad Zaben](https://www.facebook.com/Mohammad.Zaben)
+  - Email: bb8566716@gmail.com
+  - LinkedIn: [Baraa Nassar](https://www.linkedin.com/in/baraa-nassar-a1b38b304/)
+  - Facebook: [Bara'ah Nassar](https://www.facebook.com/baraa.bader.980/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
