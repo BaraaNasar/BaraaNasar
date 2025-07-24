@@ -6,11 +6,6 @@
   - LinkedIn: [Baraa Nassar](https://www.linkedin.com/in/baraa-nassar-a1b38b304/)
   - Facebook: [Bara'ah Nassar](https://www.facebook.com/baraa.bader.980/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <!-- Add your social media links here, e.g. LinkedIn, GitHub, etc. -->
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
