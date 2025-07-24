@@ -1,11 +1,15 @@
-<h1 align="center">Hi 👋, I'm Baraa Nasar</h1>
+<h1 align="center">Welcome to My GitHub Profile! 👋</h1>
 <h3 align="center">A Computer Engineering student at Birzeit University, passionate about coding, problem-solving, and continuous learning.</h3>
 
-- 📫 How to reach me **bb8566716@gmail.com**
+- 📫 How to Reach Me:
+  - Email: mohammad.nail.zaben@gmail.com
+  - LinkedIn: Mohammad Zaben
+  - Facebook: Mohammad Zaben
+  - Instagram: @mohammed_khansa
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!-- Add your social media links here, e.g. LinkedIn, GitHub, etc. -->
+  <!-- Add your social media links here, e.g. LinkedIn, GitHub, etc. -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
