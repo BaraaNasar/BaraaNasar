@@ -3,9 +3,8 @@
 
 - 📫 How to Reach Me:
   - Email: mohammad.nail.zaben@gmail.com
-  - LinkedIn: Mohammad Zaben
-  - Facebook: Mohammad Zaben
-  - Instagram: @mohammed_khansa
+  - LinkedIn: [Mohammad Zaben](https://www.linkedin.com/in/mohammad-zaben)
+  - Facebook: [Mohammad Zaben](https://www.facebook.com/Mohammad.Zaben)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
