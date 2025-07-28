@@ -1,11 +1,18 @@
 <h1 align="center">Welcome to My GitHub Profile! 👋</h1>
+
 <h3 align="center">A Computer Engineering student at Birzeit University, passionate about coding, problem-solving, and continuous learning.</h3>
-- 📫 How to Reach Me:
-  - Email: bb8566716@gmail.com
-  - LinkedIn: [Baraa Nassar](https://www.linkedin.com/in/baraa-nassar-a1b38b304/)
-  - Facebook: [Bara'ah Nassar](https://www.facebook.com/baraa.bader.980/)
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+
+<p align="center">
+📫 <strong>How to Reach Me:</strong><br>
+📧 Email: <a href="mailto:bb8566716@gmail.com">bb8566716@gmail.com</a><br>
+💼 LinkedIn: <a href="https://www.linkedin.com/in/baraa-nassar-a1b38b304/">Baraa Nassar</a><br>
+📘 Facebook: <a href="https://www.facebook.com/baraa.bader.980/">Bara'ah Nassar</a>
+</p>
+
+---
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
@@ -19,8 +26,11 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
-<h3 align="left">🎓 Education:</h3>
-<p align="left">
+
+---
+
+<h3 align="center">🎓 Education:</h3>
+<p align="center">
   <strong>Birzeit University</strong> — B.S. in Computer Engineering<br>
   <em>September 2021 - Present</em><br>
   <strong>Key Courses:</strong> Computer Architecture, Digital Integrated Circuits, Advanced Digital Design
