@@ -6,7 +6,6 @@
 📫 <strong>How to Reach Me:</strong><br>
 📧 Email: <a href="mailto:bb8566716@gmail.com">bb8566716@gmail.com</a><br>
 💼 LinkedIn: <a href="https://www.linkedin.com/in/baraa-nassar-a1b38b304/">Baraa Nassar</a><br>
-📘 Facebook: <a href="https://www.facebook.com/baraa.bader.980/">Bara'ah Nassar</a>
 </p>
 
 ---
